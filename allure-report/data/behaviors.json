@@ -1,0 +1,239 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should validate errors with empty fields",
+    "uid" : "17533c354144281a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178429303,
+      "stop" : 1623178430718,
+      "duration" : 1415
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate errors with invalid credentials",
+    "uid" : "7e9763ecbf72bcc6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178430719,
+      "stop" : 1623178432930,
+      "duration" : 2211
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate correct page title and header",
+    "uid" : "d36f570dbb8cf3de",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178432787,
+      "stop" : 1623178433904,
+      "duration" : 1117
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate error message with invalid document",
+    "uid" : "2786d45b4f5c43fe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178432930,
+      "stop" : 1623178434365,
+      "duration" : 1435
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate login components",
+    "uid" : "5a1486fd02e32f1c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178433905,
+      "stop" : 1623178435429,
+      "duration" : 1524
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate not login with invalid document",
+    "uid" : "aabfcadfa1b70e4b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178434365,
+      "stop" : 1623178436784,
+      "duration" : 2419
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate masked password characters",
+    "uid" : "93b4cb2d4b263f5e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178435429,
+      "stop" : 1623178436489,
+      "duration" : 1060
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate correct login and redirect main page",
+    "uid" : "5c4196324a3812f2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178436489,
+      "stop" : 1623178439484,
+      "duration" : 2995
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate not login with invalid user",
+    "uid" : "a160a888da9cc856",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178436784,
+      "stop" : 1623178439259,
+      "duration" : 2475
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate not login with invalid password",
+    "uid" : "1bb6da42fa84862b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178439259,
+      "stop" : 1623178441186,
+      "duration" : 1927
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate correct page title and header",
+    "uid" : "6bd23a725f66356e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178440923,
+      "stop" : 1623178442021,
+      "duration" : 1098
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate not login with cancel facebook login",
+    "uid" : "dad4498605ef6865",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178441186,
+      "stop" : 1623178445350,
+      "duration" : 4164
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate forgot user components",
+    "uid" : "5e762b562a3c9e00",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178442022,
+      "stop" : 1623178443799,
+      "duration" : 1777
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate correct login with facebook",
+    "uid" : "5588a5ee2ba0ad96",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178443806,
+      "stop" : 1623178448582,
+      "duration" : 4776
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate not login with cancel Google login",
+    "uid" : "b60402a5c18464e3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178445350,
+      "stop" : 1623178449125,
+      "duration" : 3775
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate correct login with google",
+    "uid" : "1a1b99797b2c77e6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178448583,
+      "stop" : 1623178452798,
+      "duration" : 4215
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate not login with cancel Apple login",
+    "uid" : "c29bfc9a9d6bf2b4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178449125,
+      "stop" : 1623178453379,
+      "duration" : 4254
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  }, {
+    "name" : "should validate correct login with apple",
+    "uid" : "7a52d364aaee4f53",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623178452800,
+      "stop" : 1623178457078,
+      "duration" : 4278
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "firefox" ]
+  } ]
+}

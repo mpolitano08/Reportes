@@ -1,0 +1,66 @@
+{
+  "uid" : "6bd23a725f66356e",
+  "name" : "should validate correct page title and header",
+  "fullName" : "Login Page Positive Tests Login - Forgot User.should validate correct page title and header",
+  "historyId" : "985b831dae161f8fc649280c155f6799",
+  "time" : {
+    "start" : 1623178440923,
+    "stop" : 1623178442021,
+    "duration" : 1098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Positive Tests Login - Forgot User"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Positive Tests Login - Forgot User"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate correct page title and header"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Positive Tests Login - Forgot User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "908d9172caf24857",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623178325867,
+        "stop" : 1623178326957,
+        "duration" : 1090
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bd23a725f66356e.json",
+  "parameterValues" : [ "firefox" ]
+}

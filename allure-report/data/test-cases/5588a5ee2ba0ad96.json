@@ -1,0 +1,106 @@
+{
+  "uid" : "5588a5ee2ba0ad96",
+  "name" : "should validate correct login with facebook",
+  "fullName" : "Login Page Positive Tests Login With Social Medias.should validate correct login with facebook",
+  "historyId" : "418a02a499466fefe6ff9e6635b05e61",
+  "time" : {
+    "start" : 1623178443806,
+    "stop" : 1623178448582,
+    "duration" : 4776
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "\"before each\" hook",
+      "time" : {
+        "start" : 1623178443806,
+        "stop" : 1623178445860,
+        "duration" : 2054
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "\"after each\" hook",
+      "time" : {
+        "start" : 1623178448582,
+        "stop" : 1623178448583,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Positive Tests Login With Social Medias"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Positive Tests Login With Social Medias"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate correct login with facebook"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Positive Tests Login With Social Medias"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cee6cce44a86c114",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623178328685,
+        "stop" : 1623178333076,
+        "duration" : 4391
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5588a5ee2ba0ad96.json",
+  "parameterValues" : [ "firefox" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "2786d45b4f5c43fe",
+  "name" : "should validate error message with invalid document",
+  "fullName" : "Login Page Negative Tests.should validate error message with invalid document",
+  "historyId" : "46e1dd041a527ef3e17ead15d112998a",
+  "time" : {
+    "start" : 1623178432930,
+    "stop" : 1623178434365,
+    "duration" : 1435
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate error message with invalid document"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2786d45b4f5c43fe.json",
+  "parameterValues" : [ "firefox" ]
+}

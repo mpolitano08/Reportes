@@ -1,0 +1,58 @@
+{
+  "uid" : "7e9763ecbf72bcc6",
+  "name" : "should validate errors with invalid credentials",
+  "fullName" : "Login Page Negative Tests.should validate errors with invalid credentials",
+  "historyId" : "ad8fe5d529af207953e6fcb81e610191",
+  "time" : {
+    "start" : 1623178430719,
+    "stop" : 1623178432930,
+    "duration" : 2211
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate errors with invalid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e9763ecbf72bcc6.json",
+  "parameterValues" : [ "firefox" ]
+}

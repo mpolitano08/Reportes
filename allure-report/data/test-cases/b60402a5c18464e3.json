@@ -1,0 +1,58 @@
+{
+  "uid" : "b60402a5c18464e3",
+  "name" : "should validate not login with cancel Google login",
+  "fullName" : "Login Page Negative Tests.should validate not login with cancel Google login",
+  "historyId" : "bb2c4168b538c5eed8ef400a6d2436fb",
+  "time" : {
+    "start" : 1623178445350,
+    "stop" : 1623178449125,
+    "duration" : 3775
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate not login with cancel Google login"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b60402a5c18464e3.json",
+  "parameterValues" : [ "firefox" ]
+}

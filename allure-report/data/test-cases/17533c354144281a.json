@@ -1,0 +1,58 @@
+{
+  "uid" : "17533c354144281a",
+  "name" : "should validate errors with empty fields",
+  "fullName" : "Login Page Negative Tests.should validate errors with empty fields",
+  "historyId" : "7e89ce4b592ee91f758091583ac4ffb",
+  "time" : {
+    "start" : 1623178429303,
+    "stop" : 1623178430718,
+    "duration" : 1415
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate errors with empty fields"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17533c354144281a.json",
+  "parameterValues" : [ "firefox" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "c29bfc9a9d6bf2b4",
+  "name" : "should validate not login with cancel Apple login",
+  "fullName" : "Login Page Negative Tests.should validate not login with cancel Apple login",
+  "historyId" : "2e24cb2c2e409a26895ad8814c761264",
+  "time" : {
+    "start" : 1623178449125,
+    "stop" : 1623178453379,
+    "duration" : 4254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate not login with cancel Apple login"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Negative Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c29bfc9a9d6bf2b4.json",
+  "parameterValues" : [ "firefox" ]
+}

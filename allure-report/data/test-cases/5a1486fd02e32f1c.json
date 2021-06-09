@@ -1,0 +1,66 @@
+{
+  "uid" : "5a1486fd02e32f1c",
+  "name" : "should validate login components",
+  "fullName" : "Login Page Positive Tests Login with Omint Form.should validate login components",
+  "historyId" : "71e9f036f5f1f68b0ac330d39ae3962",
+  "time" : {
+    "start" : 1623178433905,
+    "stop" : 1623178435429,
+    "duration" : 1524
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Positive Tests Login with Omint Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Positive Tests Login with Omint Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate login components"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Positive Tests Login with Omint Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "46019094dfab1dcb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623178318939,
+        "stop" : 1623178320466,
+        "duration" : 1527
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a1486fd02e32f1c.json",
+  "parameterValues" : [ "firefox" ]
+}

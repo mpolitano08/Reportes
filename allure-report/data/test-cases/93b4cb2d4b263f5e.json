@@ -1,0 +1,66 @@
+{
+  "uid" : "93b4cb2d4b263f5e",
+  "name" : "should validate masked password characters",
+  "fullName" : "Login Page Positive Tests Login with Omint Form.should validate masked password characters",
+  "historyId" : "1d702ebceb569bf19f25f8c4ddad1725",
+  "time" : {
+    "start" : 1623178435429,
+    "stop" : 1623178436489,
+    "duration" : 1060
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Positive Tests Login with Omint Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Positive Tests Login with Omint Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate masked password characters"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Positive Tests Login with Omint Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2724d598e47c86b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623178320466,
+        "stop" : 1623178321533,
+        "duration" : 1067
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93b4cb2d4b263f5e.json",
+  "parameterValues" : [ "firefox" ]
+}
